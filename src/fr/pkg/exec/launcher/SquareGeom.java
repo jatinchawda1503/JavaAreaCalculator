@@ -1,7 +1,7 @@
 package fr.pkg.exec.launcher;
 
 import fr.pkg.exec.geomerty.Square;
-import fr.pkg.exec.geomerty.Triangle;
+
 
 public class SquareGeom {
     public static void main(String[] args){
